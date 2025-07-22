@@ -1,5 +1,16 @@
 # Welcome to your Expo app 👋
 
+****************************
+Dev readme:
+
+
+npm install
+"npm run start" to start the app, if it doesn't work then use "npm run start-tunnel", if you want to clear cache and try then use "npm run start-clearcache-tunnel".
+
+If app is tunning successfully then download "expo go" app from playstore and follow the instructions from the console or app.  
+
+Dev readme done
+****************************
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
